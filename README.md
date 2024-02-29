@@ -1,6 +1,7 @@
 # staff-scripts
 
 Collection of useful scripts to automate RD2L staff tasks.
+Require Python 3.11.8 to run NOT 3.12
 
 ### draft_sheet_parser.py
 generates the liquipedia list of teams by parsing the google spreadsheet automatically (the team draft sheet)
